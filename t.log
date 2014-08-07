@@ -1,0 +1,20 @@
+  之前没有数据库连接或之前的连接已释放，现在开始重新连接
+  Connecting to 'dbi:DB2:DATABASE=hebdw; HOSTNAME=10.129.244.22; PORT=50000; PROTOCOL=TCPIP; ' ...
+  Connected to database.
+  init Date variable sucess
+ D:
+           cd qw
+           db2cmd call a.bat 
+          
++---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+-
+Microsoft Windows XP [版本 5.1.2600]
+(C) 版权所有 1985-2001 Microsoft Corp.
+
+C:\perl>   D:
+
+D:\>           cd qw
+
+D:\qw>           db2cmd call a.bat 
+
+D:\qw>        
+D:\qw>RET_CODE,0[09:39:38] 	***  execute bat sucess
